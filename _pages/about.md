@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Incoming Ph.D. Student @ <a href='https://www.cornell.edu/'>Cornell University</a>. 
 
