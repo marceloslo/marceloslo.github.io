@@ -21,7 +21,7 @@ announcements:
 
 I am an incoming Ph.D. student at Cornell's CS department, where I will work with [Prof. Cristian Danescu-Niculescu-Mizil](https://www.cs.cornell.edu/~cristian) on the development and auditing of AI mediators and assistants.
 
-Previously I was an intern at MPI-SP under the supervision of [Prof. Meeyoung Cha](https://www.mpi-sp.org/cha) and I completed my M.Sc. at UFMG under [Prof. Virgilio Almeida](https://scholar.google.com/citations?user=sPKpIPwAAAAJ) and [Prof. Wagner Meira Jr.](https://scholar.google.com/citations?user=oad6_oEAAAAJ) 
+Previously I was an intern at MPI-SP under the supervision of [Prof. Meeyoung Cha](https://www.mpi-sp.org/cha) and I completed my M.Sc. at UFMG, in Brazil, under [Prof. Virgilio Almeida](https://scholar.google.com/citations?user=sPKpIPwAAAAJ) and [Prof. Wagner Meira Jr.](https://scholar.google.com/citations?user=oad6_oEAAAAJ) 
 During my Master's I focused on analyzing collective behavior in social media platforms, researching phenomena such as **politicization**, **misinformation** and **radicalization**.
 
 **Research focus:** My focus is understanding how complex systems work. Here, a system can be a machine learning model, social media platforms, or even human behavior. This interest shapes my work, which generally fits into two broad areas:
