@@ -24,7 +24,7 @@ I am an incoming Ph.D. student at Cornell's CS department, where I will work wit
 Previously I was an intern at MPI-SP under the supervision of [Prof. Meeyoung Cha](https://www.mpi-sp.org/cha) and I completed my M.Sc. at UFMG under [Prof. Virgilio Almeida](https://scholar.google.com/citations?user=sPKpIPwAAAAJ) and [Prof. Wagner Meira Jr.](https://scholar.google.com/citations?user=oad6_oEAAAAJ) 
 During my Master's I focused on analyzing collective behavior in social media platforms, researching phenomena such as **politicization**, **misinformation** and **radicalization**.
 
-**Research focus:** My focus with my research is understanding how complex systems work. Here, a system can be a machine learning model, social media platforms, or even human behavior. This interest shapes my work, which generally fits into two broad areas:
+**Research focus:** My focus in my research is understanding how complex systems work. Here, a system can be a machine learning model, social media platforms, or even human behavior. This interest shapes my work, which generally fits into two broad areas:
 
 - **Understanding AI models:** With the advances of large scale pretraining techniques, models are becoming increasingly large and complex. There is still a lack of understanding on how concepts are learned and internalized in these models and, in turn, a lack of understanding on how those concepts shape the model outputs, possibly leading to harm. At Cornell, I aim to further both of these goals through the study of conversational AI. At MPI-SP we have studied the model side of the equation ([ICML'26](https://arxiv.org/abs/2606.07172)), while at UFMG we have studied the output side ([AIES'24](https://ojs.aaai.org/index.php/AIES/article/view/31689)).
 
