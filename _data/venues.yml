@@ -1,9 +1,73 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+# Venue badges shown to the left of each publication.
+# The key must EXACTLY match the `abbr={...}` value in _bibliography/papers.bib.
+#   color: badge background (badge text is white, so keep it dark)
+#   url:   optional — turns the badge into a link
+# Any abbr without an entry here still shows a badge, just without a custom color.
+#
+# Color scheme (by topic):
+#   Brazilian venues .... dark green  #1b5e20
+#   Social media ........ orange      #c2410c
+#   AI .................. blue        #1565c0
+#   NLP ................. red         #b3261e
+#   Policy / ethics ..... purple      #6a1b9a
 
-"PhysRev":
-  url: https://journals.aps.org/
+# ---- AI (blue) ----
+"ICML":
+  url: https://icml.cc/
+  color: "#1565c0"
 
-"Vision":
-  color: "#009f36"
+"AAAI":
+  url: https://aaai.org/
+  color: "#1565c0"
+
+"EvoStar":
+  url: https://www.evostar.org/
+  color: "#1565c0"
+
+# ---- Policy / ethics (purple) ----
+"FACCT":
+  url: https://facctconference.org/
+  color: "#6a1b9a"
+
+"AIES":
+  url: https://www.aies-conference.com/
+  color: "#6a1b9a"
+
+# ---- Social media (orange) ----
+"ICWSM":
+  url: https://www.icwsm.org/
+  color: "#c2410c"
+
+"ASONAM":
+  url: https://asonam.org/
+  color: "#c2410c"
+
+"WebSci":
+  url: https://dl.acm.org/conference/websci
+  color: "#c2410c"
+
+"HT":
+  url: https://dl.acm.org/conference/ht
+  color: "#c2410c"
+
+"GoodIT":
+  url: https://dl.acm.org/conference/goodit
+  color: "#c2410c"
+
+# ---- NLP (red) ----
+"ClimateNLP":
+  url: https://aclanthology.org/venues/climatenlp/
+  color: "#b3261e"
+
+# ---- Brazilian venues (dark green) ----
+"BraSNAM":
+  url: https://sol.sbc.org.br/index.php/brasnam
+  color: "#1b5e20"
+
+"Hygeia":
+  url: https://seer.ufu.br/index.php/hygeia
+  color: "#1b5e20"
+
+"BABT":
+  url: https://www.scielo.br/j/babt/
+  color: "#1b5e20"
