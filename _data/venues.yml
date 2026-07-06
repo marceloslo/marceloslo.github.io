@@ -58,7 +58,7 @@
 # ---- NLP (red) ----
 "Workshop@ACL":
   url: https://aclanthology.org/venues/climatenlp/
-  color: "#E01500"
+  color: "#E80E0E"
 
 # ---- Brazilian venues (dark green) ----
 "BraSNAM":
