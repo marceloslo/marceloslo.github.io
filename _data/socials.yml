@@ -9,7 +9,5 @@ scholar_userid: MCZwNAoAAAAJ # your Google Scholar ID
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 github_username: marceloslo # your GitHub username
-custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: https://upload.wikimedia.org/wikipedia/commons/f/fe/Linklogo.png # can be png, svg, jpg
-  title: LinkedIn 
-  url: https://www.linkedin.com/in/marcelo-sartori-locatelli/
+linkedin_username: marcelo-sartori-locatelli
+orcid_id: 0000-0002-0893-1446
