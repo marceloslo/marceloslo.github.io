@@ -33,31 +33,32 @@
   url: https://www.aies-conference.com/
   color: "#6a1b9a"
 
+"GoodIT":
+  url: https://dl.acm.org/conference/goodit
+  color: "#6a1b9a"
+
 # ---- Social media (orange) ----
 "ICWSM":
   url: https://www.icwsm.org/
-  color: "#c2410c"
+  color: "#D96C0D"
 
 "ASONAM":
   url: https://asonam.org/
-  color: "#c2410c"
+  color: "#D96C0D"
 
 "WebSci":
   url: https://dl.acm.org/conference/websci
-  color: "#c2410c"
+  color: "#D96C0D"
 
 "HT":
   url: https://dl.acm.org/conference/ht
-  color: "#c2410c"
+  color: "#D96C0D"
 
-"GoodIT":
-  url: https://dl.acm.org/conference/goodit
-  color: "#c2410c"
 
 # ---- NLP (red) ----
 "ClimateNLP":
   url: https://aclanthology.org/venues/climatenlp/
-  color: "#D41717"
+  color: "#BA0000"
 
 # ---- Brazilian venues (dark green) ----
 "BraSNAM":
