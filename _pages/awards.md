@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /awards/
-title: Awards
+title: Awards & Grants
 nav: true
 nav_order: 3
 ---

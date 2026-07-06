@@ -232,13 +232,14 @@ exclude:
   - lighthouse_results/
   - package.json
   - package-lock.json
-  - _pages/about_einstein.md
   - purgecss.config.js
   - README.md
   - readme_preview/
   - gems/
   - migrations/
   - vendor
+  - _pages/teaching.md
+  - _pages/press_talks.md
 keep_files:
   - CNAME
   - .nojekyll
