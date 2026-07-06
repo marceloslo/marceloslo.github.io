@@ -56,7 +56,7 @@
 
 
 # ---- NLP (red) ----
-"ClimateNLP":
+"Workshop@ACL":
   url: https://aclanthology.org/venues/climatenlp/
   color: "#E01500"
 
