@@ -1,7 +1,7 @@
 # this file contains the social media links and usernames of the author
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
-cv_pdf: /assets/pdf/CV_MSL.pdf # path to your CV PDF file
+#cv_pdf: /assets/pdf/CV_MSL.pdf # path to your CV PDF file
 email: locatellimarcelo@dcc.ufmg.br # your email address
 #inspirehep_id: 1010907 # Inspire HEP author ID
 #rss_icon: true # comment this line to hide the RSS icon
@@ -10,4 +10,4 @@ scholar_userid: MCZwNAoAAAAJ # your Google Scholar ID
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 github_username: marceloslo # your GitHub username
 linkedin_username: marcelo-sartori-locatelli
-orcid_id: 0000-0002-0893-1446
+#orcid_id: 0000-0002-0893-1446
