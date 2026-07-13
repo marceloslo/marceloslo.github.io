@@ -1,6 +1,10 @@
 metadata:
-  last_updated: '2026-07-08'
+  last_updated: '2026-07-13'
 papers:
+  MCZwNAoAAAAJ:5ugPr518TE4C:
+    citations: 0
+    title: Analyzing collective behavior in large scale digital platforms
+    year: '2026'
   MCZwNAoAAAAJ:9yKSN-GCB0IC:
     citations: 1
     title: "A COVID-19 no Twitter: correlacionando vocabul\xE1rio com agravamento e atenua\xE7\xE3o da pandemia no Brasil"
@@ -22,8 +26,8 @@ papers:
     title: Characterizing Persuasion Patterns in Climate Discourse on Brazilian Portuguese YouTube Videos
     year: '2025'
   MCZwNAoAAAAJ:O3NaXMp0MMsC:
-    citations: 1
-    title: Characterizing AI manipulation risks in brazilian YouTube climate discourse
+    citations: 2
+    title: Characterizing AI manipulation risks in Brazilian YouTube climate discourse
     year: '2026'
   MCZwNAoAAAAJ:RGFaLdJalmkC:
     citations: 0
@@ -65,6 +69,10 @@ papers:
     citations: 11
     title: Characterizing vaccination movements on YouTube in the United States and Brazil
     year: '2022'
+  MCZwNAoAAAAJ:wbdj-CoPYUoC:
+    citations: 0
+    title: Textual Supervision Enhances Geospatial Representations in Vision-Language Models
+    year: '2026'
   MCZwNAoAAAAJ:zYLM7Y9cAGgC:
     citations: 7
     title: Topic shifts as a proxy for assessing politicization in social media
