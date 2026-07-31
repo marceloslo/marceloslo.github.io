@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-13'
+  last_updated: '2026-07-31'
 papers:
   MCZwNAoAAAAJ:5ugPr518TE4C:
     citations: 0
@@ -14,7 +14,7 @@ papers:
     title: Correlations between web searches and COVID-19 epidemiological indicators in Brazil
     year: '2022'
   MCZwNAoAAAAJ:JV2RwH3_ST0C:
-    citations: 0
+    citations: 1
     title: 'Exploring Brazilian TikTok and YouTube Shorts: A Public Dataset for Video Characterization'
     year: '2025'
   MCZwNAoAAAAJ:M3NEmzRMIkIC:
