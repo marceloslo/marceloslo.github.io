@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-05'
+  last_updated: '2026-08-14'
 papers:
   MCZwNAoAAAAJ:5ugPr518TE4C:
     citations: 0
@@ -45,7 +45,7 @@ papers:
     citations: 3
     title: "Emerging Digital Spaces: The Case of Bluesky\u2019s Rise During 2024 Brazilian Elections"
     year: '2025'
-  MCZwNAoAAAAJ:kRWSkSYxWN8C:
+  MCZwNAoAAAAJ:bnK-pcrLprsC:
     citations: 0
     title: Textual Supervision Enhances Geospatial Representations in Vision-Language Models
     year: '2026'
@@ -66,14 +66,10 @@ papers:
     title: "From Inclusion to Contention: Analyzing DEI and \u201CWoke\u201D Narratives on Reddit"
     year: '2025'
   MCZwNAoAAAAJ:qjMakFHDy7sC:
-    citations: 13
+    citations: 15
     title: Characterizing vaccination movements on YouTube in the United States and Brazil
     year: '2022'
-  MCZwNAoAAAAJ:wbdj-CoPYUoC:
-    citations: 0
-    title: Textual Supervision Enhances Geospatial Representations in Vision-Language Models
-    year: '2026'
   MCZwNAoAAAAJ:zYLM7Y9cAGgC:
-    citations: 7
+    citations: 8
     title: Topic shifts as a proxy for assessing politicization in social media
     year: '2024'
