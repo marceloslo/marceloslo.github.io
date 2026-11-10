@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Incoming Ph.D. Student @ <a href='https://www.cornell.edu/'>Cornell University</a>. 
+subtitle: Ph.D. Student @ <a href='https://www.cornell.edu/'>Cornell University</a>. 
 
 profile:
   align: right
